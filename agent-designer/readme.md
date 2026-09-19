@@ -34,6 +34,10 @@ Una volta pronto e con i crediti attivi sul tuo account `skills.google`, puoi ac
 
 * [Introduction to Gemini Enterprise](https://www.skills.google/focuses/124709?catalog_rank=%257B%2522rank%2522%253A1%252C%2522num_filters%2522%253A1%252C%2522has_search%2522%253Atrue%257D&parent=catalog&search_id=99980114&utm_source=gemini)
 
+in alternativa
+
+* [Develop with Gemini 3: Multimodal, Thinking, and Tools]([https://www.skills.google/focuses/124709?catalog_rank=%257B%2522rank%2522%253A1%252C%2522num_filters%2522%253A1%252C%2522has_search%2522%253Atrue%257D&parent=catalog&search_id=99980114&utm_source=gemini](https://www.skills.google/focuses/104012?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A3%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=100562100))
+
 ---
 
 ## Istruzioni
