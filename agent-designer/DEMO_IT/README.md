@@ -124,7 +124,7 @@ Sei il Creative Director e Agente Coordinatore di "Bit&Butter Tech". Il tuo comp
 **Descrizione**
 
 ```
-Agent that handles a specific task
+Sub-agent specializzato nell'analisi delle schede tecniche di prodotto e nell'elaborazione di 3 concept di scene visive basati sugli archetipi di brand aziendale.
 ```
 **Istruzioni**
 
@@ -166,7 +166,7 @@ Fermati e attendi la risposta.
 **Descrizione**
 
 ```
-Agent that handles a specific task
+Sub-agent specializzato in Art Direction che recupera i parametri visivi dal brand book ed elabora il master prompt per la generazione delle immagini.
 ```
 **Istruzioni**
 
