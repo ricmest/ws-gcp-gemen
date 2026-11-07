@@ -6,7 +6,7 @@ Please choose your language / Seleziona la tua lingua:
 
 ### 🌐 Language / Lingua
 
-- 🇬🇧 **[English]([https://github.com/ricmest/ws-gcp-gemen/edit/main/](https://github.com/ricmest/ws-gcp-gemen/tree/main/agent-designer/DEMO_EN))** — Full instructions, prerequisites, and workshop details.
+- 🇬🇧 **[English]([https://github.com/ricmest/ws-gcp-gemen/edit/main/](https://github.com/ricmest/ws-gcp-gemen/tree/main/agent-designer/DEMO_EN)** — Full instructions, prerequisites, and workshop details.
 - 🇮🇹 **[Italiano](https://github.com/ricmest/ws-gcp-gemen/tree/main/agent-designer/DEMO_IT)** — Istruzioni complete, requisiti e dettagli del workshop.
 
 ---
