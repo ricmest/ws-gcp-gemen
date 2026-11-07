@@ -8,6 +8,7 @@
 ## Introduzione
 
 In questo workshop esploreremo il potenziale dell'intelligenza artificiale generativa applicata ai flussi di lavoro reali.
+Trovi la guida completa passo-passo e i dettagli del workshop in questo [articolo su Medium](https://medium.com/google-cloud/change-the-brand-manual-not-the-prompts-a-multi-agent-marketing-team-in-gemini-enterprise-855c71012e88)
 
 **Cosa faremo:**
 1. Partiremo analizzando le differenze chiave tra **Gemini Enterprise** e la versione consumer, approfondendo aspetti fondamentali come **dati, sicurezza e integrazioni aziendali**.
