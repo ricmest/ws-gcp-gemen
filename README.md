@@ -13,3 +13,10 @@ Please choose your language / Seleziona la tua lingua:
 
 > 📖 **Medium Article / Articolo su Medium:**  
 > [Leggi la guida completa / Read the full guide on Medium](https://medium.com/google-cloud/change-the-brand-manual-not-the-prompts-a-multi-agent-marketing-team-in-gemini-enterprise-855c71012e88)
+
+---
+
+### 👥 Authors / Autori
+
+- **[Riccardo Mestrone]** — [![LinkedIn](https://www.linkedin.com/in/riccardo-mestrone/)
+- **[Federico Mestrone]** — [![LinkedIn](https://www.linkedin.com/in/federico-mestrone/)
