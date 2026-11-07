@@ -18,5 +18,5 @@ Please choose your language / Seleziona la tua lingua:
 
 ### 👥 Authors / Autori
 
-- **[Riccardo Mestrone]** — [LinkedIn](https://www.linkedin.com/in/riccardo-mestrone/)
-- **[Federico Mestrone]** — [LinkedIn](https://www.linkedin.com/in/federico-mestrone/)
+- **Riccardo Mestrone** — [LinkedIn](https://www.linkedin.com/in/riccardo-mestrone/)
+- **Federico Mestrone** — [LinkedIn](https://www.linkedin.com/in/federico-mestrone/)
