@@ -7,6 +7,7 @@
 ## Introduction
 
 In this workshop, we will explore the potential of generative artificial intelligence applied to real-world workflows. You can find the full step-by-step guide and workshop details in this [Medium article](https://medium.com/google-cloud/change-the-brand-manual-not-the-prompts-a-multi-agent-marketing-team-in-gemini-enterprise-855c71012e88).
+
 **What we will do:**
 1. We will start by analyzing the key differences between **Gemini Enterprise** and the consumer version, taking a deep dive into fundamental aspects such as **data privacy, security, and corporate integrations**.
 2. *Hands on keyboard*, we will move to practice by configuring and testing a **custom no-code AI agent** together.
